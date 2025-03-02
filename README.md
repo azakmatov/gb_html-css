@@ -6,4 +6,5 @@ Made the logo a link to the main page, added hover effects, added semantic eleme
 2. If possible, checked for a large number of texts, indents for input fields.
 3. I am posting the finished site on github for verification, since free hostings often have problems with certificates for opening sites via HTTPS.
 4. I added immobility to the header and pop-up menu, as well as a shadow for the header to emphasize the borders of the header from other blocks when scrolling.
+
 Thank you!
